@@ -1,0 +1,2 @@
+cursed:pico:0
+insanity:pico:0
